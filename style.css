@@ -112,7 +112,17 @@ main{
     border-radius: 0.3125rem;
     background-color: var(--green-800);
     color: var(--white);
+
 }
+
+
+.gorjeta .botao-ativo{
+    background-color: var(--light-green);
+    color: var(--green-800);
+}
+
+
+
 
 
 .gorjeta input[type="button"]:hover,
